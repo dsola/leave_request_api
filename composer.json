@@ -1,0 +1,8 @@
+{
+    "name": "digitaldimmension/leaverequestapi",
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "vlucas/phpdotenv": "2.0",
+        "altorouter/altorouter": "^1.1"
+    }
+}

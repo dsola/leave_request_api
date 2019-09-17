@@ -1,6 +1,5 @@
 # Leave Request API
-Test Application to check my OOP skills for Digital Dimmension. Made in 
-
+Test Application to check my OOP skills for Digital Dimmension. Made in 7 of March 2016.
 # Description
 
 * I've created a new Entity called Department to match the employees and managers.
